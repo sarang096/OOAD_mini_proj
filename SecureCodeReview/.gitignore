@@ -1,0 +1,8 @@
+.env
+reference.pdf
+target/
+.settings/
+.classpath
+.project
+src/main/frontend
+/bin/
